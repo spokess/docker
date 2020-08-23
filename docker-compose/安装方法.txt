@@ -1,0 +1,8 @@
+在docker安装好之后
+
+将docker-compose上传到 /usr/local/bin/ 目录下改名为docker-compose
+
+
+并且给予执行权限
+chmod a+x /usr/local/bin/docker-compose
+docker-compose --version   #验证是否安装成功
